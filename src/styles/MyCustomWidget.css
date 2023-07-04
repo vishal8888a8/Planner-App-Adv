@@ -1,0 +1,24 @@
+.rhap_container {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.rhap_time {
+  color: #fff;
+}
+
+.MusicPlayer {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 17.5rem;
+}
+
+.Thumbnail {
+  height: 12rem;
+  width: 12rem;
+  border-radius: 15px;
+}
