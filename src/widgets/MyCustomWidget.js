@@ -43,6 +43,7 @@ export default function MyCustomWidget() {
           showFilledVolume={false}
           onClickNext={() => playNextSong()}
           onClickPrevious={() => playPreviousSong()}
+          onEnded={() => playNextSong()}
         />
       </div>
     </div>

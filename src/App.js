@@ -24,7 +24,7 @@ function App() {
       id: new Date().getTime() + 1,
       component: <MyCustomWidget />,
       area: "left-widget",
-      name: "Music Player",
+      name: "Harmonious Beats",
     },
   ]);
   const [showWidgetModal, setShowWidgetModal] = useState(false);
